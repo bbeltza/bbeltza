@@ -1,4 +1,7 @@
 ## Hi there 👋
+### 🏗️🏗️🏗️ This page is under construction 🏗️🏗️🏗️
+
+Meaning I'll be adding more content to it, for now it's just this emptiness...
 
 <!--
 **bbeltza/bbeltza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
