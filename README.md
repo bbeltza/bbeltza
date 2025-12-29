@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hello there! 👋
 ### 🏗️🏗️🏗️ This page is under construction 🏗️🏗️🏗️
 
 Meaning I'll be adding more content to it, for now it's just this emptiness...
