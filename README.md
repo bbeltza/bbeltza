@@ -3,9 +3,9 @@
 - Mainly C/C++, also worked with Lua/Luau, Python, *and Cmake's scripting language if we can count it...* (Also tried plenty of popular languages)
 - Vewryryyyy (or a little) young...
 - Current projects:
-  - [Dancing Line: The Rebirth](https://www.roblox.com/games/17090632641/Dancing-Line-The-Rebirth), a Roblox Dancing Line fan made (since 2024)
-  - A game and game engine I'm not comfortable revealing about right now... (since 2025) The engine will however be public and open-source
-  - [An LMMS fork](https://github.com/bbeltza/lmms)
+  - [Dancing Line: The Rebirth](https://www.roblox.com/games/17090632641/Dancing-Line-The-Rebirth), a Roblox Dancing Line fanmade (since 2024)
+  - A C/C++ game and game engine I'm not comfortable revealing about right now... (since 2025) The engine will however be public and open-source
+  - [An LMMS 1.2.2 fork](https://github.com/bbeltza/lmms)
 
 <!--
 **bbeltza/bbeltza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
